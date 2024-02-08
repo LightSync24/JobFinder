@@ -112,7 +112,7 @@ const Navbar = () => {
       <nav className="container mx-auto flex items-center justify-between p-5 mb-10">
         <div>
           <Link to="/" className="text-blue-600 font-bold text-xl">
-            Job<span className="text-[#1677cccb]">Finder</span>
+            Carrer<span className="text-[#1677cccb]">Boost</span>
           </Link>
         </div>
 
